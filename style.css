@@ -1,0 +1,85 @@
+/* header Section CSS */
+.myNavbar_section{
+   
+}
+/* About Section CSS */
+.blog_section{
+    background: #f9f9ff;
+}
+.my_btn{
+    background: #8490ff;
+    color: #fff !important;
+    border: 1px solid transparent;
+}
+.my_btn:hover{
+    background: #fff;
+    color: #8490ff !important;
+    border: 1px solid #8490ff;
+}
+
+/* Number Counter Section CSS */
+.numberC_section{
+    background: #8490ff;
+}
+
+/* Testimonial Section CSS */
+.testimonial_section{
+    background: #f9f9ff;
+}
+.head_01 {
+	width: 80px;
+	height: 80px;
+	background: #f9f9ff;
+	margin: 0 auto;
+	line-height: 80px;
+	border-radius: 50%;
+    transition: .5s;
+}
+.testimonial_item:hover .head_01{
+    background: #8490ff;
+    color: #fff;
+}
+.testimonial_item{
+    box-shadow: -2.2px 3px 30px rgba(132, 144, 255,.2);
+}
+.testimonial_btn {
+	border: 2px solid #8490ff;
+	padding: 10px 30px;
+	font-size: 1.3rem;
+	color: #8490ff;
+    box-shadow: -2.2px 3px 30px rgba(132, 144, 255,.2);
+    transition: .5s;
+}
+.testimonial_btn:hover{
+    background: #8490ff !important;
+    color: #fff;
+
+}
+
+
+/* Feedback Section CSS */
+.my_img {
+	width: 95px;
+	top: -85px;
+	left: 0;
+}
+.my_P{
+    margin-top: -10px;
+}
+.feedback_btn{
+    transition: .5s;
+}
+.feedback_btn:hover{
+    background: #8490ff !important;
+    color: #fff !important;
+}
+
+/* Form Section CSS */
+.form_section{
+    background: #f9f9ff;
+}
+
+/* Footer Section CSS */
+.footer_section{
+    background: #04091e;
+}
